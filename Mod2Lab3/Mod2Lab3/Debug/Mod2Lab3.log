@@ -1,0 +1,3 @@
+﻿  book.cpp
+Mod2Lab3.obj : error LNK2019: unresolved external symbol "public: __thiscall Book::Book(void)" (??0Book@@QAE@XZ) referenced in function _main
+C:\Users\olivia.bene\Desktop\Code\Mod2Lab3\Debug\Mod2Lab3.exe : fatal error LNK1120: 1 unresolved externals
